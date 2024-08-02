@@ -1,0 +1,1 @@
+print("Run Python on local!")

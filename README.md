@@ -9,7 +9,7 @@ This repository is my learning progress for do a challenge to code daily and pre
 | Weeeks     | Link |
 |:---------------------|:-----:|
 | Week 1 |  [✅](https://github.com/abliskan/Hackerrank-3-Months-Prep/tree/main/Week1) |
-| Week 2 |  [❌]() |
+| Week 2 |  [✅](https://github.com/abliskan/Hackerrank-3-Months-Prep/tree/main/Week2) |
 | Week 3 |  [❌]() |
 | Week 4 |  [❌]() |
 | Week 5 |  [❌]() |
